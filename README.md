@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BobThePogBuilder
 - 👀 I’m interested in all things computer-related
-- 🌱 I’m currently learning Python, CSS, C++, C#, CompTIA A+, and many other certs and languages
+- 🌱 I’m currently learning Python, Java, CompTIA A+, and many other certs and languages
 - 💞️ I’m looking to collaborate on some simple Python projects
 - 📫 You can reach me through GitHub
 
